@@ -7,6 +7,6 @@ To run our AI model:
 
 2. Click "Open in colab"
 
-3. Log in to your non-uia personal gmail account
+3. Log in to your PERSONAL gmail account
 
 4. Now you can enjoy, edit, and run our project!
